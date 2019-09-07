@@ -19,7 +19,7 @@ Hello, we’re [Omnifood](https://rawcdn.githack.com/KaushikShivam/omnifood/2a44
 
 1. Clone the project to your local directory
 ```
-git clone https://github.com/KaushikShivam/Trillo.git
+git clone https://github.com/KaushikShivam/omnifood.git
 ```
 2. Open the index.html file in your browser to view the website in all its glory (Live-server is recommended to view live changes automatically)
 
